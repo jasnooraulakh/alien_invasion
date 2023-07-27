@@ -1,2 +1,2 @@
 # alien_invasion
-A simple game.
+A simple game, 2D shooter.
