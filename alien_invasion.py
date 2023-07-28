@@ -21,7 +21,7 @@ def run_game():
     bullets = Group()
     aliens = Group()
 
-    #Create the fleet of aliens.
+    # Create the fleet of aliens.
     gf.create_fleet(ai_settings, screen, aliens)
 
     # Start the main loop for the game.
